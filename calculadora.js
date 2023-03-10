@@ -28,8 +28,7 @@ div4.setAttribute('class', 'text-center mt-3 d-flex justify-content-around');
 //Div 5
 const div5 = document.createElement('div');
 div5.setAttribute('class', 'text-center mb-5 mt-3 d-flex justify-content-around');
-
-
+//variabñes
 const btn1 = document.createElement('button');
 const btn2 = document.createElement('button');
 const btn3 = document.createElement('button');
@@ -46,7 +45,6 @@ const btnMul = document.createElement('button');
 const btnDiv = document.createElement('button');
 const btnEqual = document.createElement('button');
 const btnErase = document.createElement('button');
-btnErase.setAttribute("class","igual");
 // Agregar elementos al DOM
 document.body.appendChild(container);
 container.appendChild(row);
