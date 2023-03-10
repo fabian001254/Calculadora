@@ -9,7 +9,6 @@ container.setAttribute('class', 'container d-flex justify-content-center');
 // Row
 const row = document.createElement('div');
 row.setAttribute('class', 'row justify-content-center text-center');
-row.setAttribute('style', 'width: 60%');
 
 // Div 1
 const div1 = document.createElement('div');

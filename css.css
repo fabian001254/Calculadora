@@ -34,6 +34,7 @@ input{
     -webkit-backdrop-filter: blur( 8.5px );
     border-radius: 50px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 50%;
 }
 body{
     background-color:rgb(48, 41, 41);
@@ -56,4 +57,5 @@ body{
     transform: scale(1);
   }
 }
+
   
